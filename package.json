@@ -1,7 +1,7 @@
 {
   "name": "promise-null-object",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js Promise Null Objects for Testing ========================================",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,16 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^16.0.1"
-  }
+  },
+  "dependencies": {
+    "jest": "^16.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schniz/promise-null-object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Schniz/promise-null-object/issues"
+  },
+  "homepage": "https://github.com/Schniz/promise-null-object#readme"
 }
