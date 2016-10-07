@@ -1,6 +1,7 @@
 {
   "name": "promise-null-object",
   "version": "1.0.0",
+  "engines" : { "node" : ">=6.0.0" },
   "description": "Node.js Promise Null Objects for Testing ========================================",
   "main": "index.js",
   "scripts": {
@@ -10,9 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^16.0.1"
-  },
-  "dependencies": {
     "jest": "^16.0.1"
   },
   "repository": {
