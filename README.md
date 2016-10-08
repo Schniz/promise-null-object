@@ -14,7 +14,7 @@ and your favorite test runner :smirk:
 From the spec:
 
 ```js
-const promiseNullObject = require('.');
+const promiseNullObject = require('promise-null-object');
 
 it('works', () => {
   return promiseNullObject().a.b.c.d.e.f.g.h.i.then(e => e.a.b.c.d.ef.d.f.h());
